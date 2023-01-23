@@ -8,7 +8,7 @@
 
 <!-- GITHUB ACTIVITY CARD -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=adityaarya99&theme=github" >
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=adityaAntino&theme=github" >
 </a>
 
   <br>  <br>
@@ -16,7 +16,7 @@
 <!-- GITHUB README STATS -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityaarya99&count_private=true&show_icons=true&theme=radical" >
+    <img src="https://github-readme-stats.vercel.app/api?username=adityaAntino&count_private=true&show_icons=true&theme=radical" >
   </a>
 </p>
   
